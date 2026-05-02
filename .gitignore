@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+.env
+.terraform/
+terraform.tfstate*
+# Reports
+*.json
+
+# Python
+__pycache__/
+*.pyc
+
+# AWS credentials
+.aws/
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
